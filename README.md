@@ -66,9 +66,6 @@ https://nerminmostafa.github.io/Code-Refactoring-and-Enhancement/
 
 Feel free to fork the project, make improvements, and submit pull requests. Contributions are always welcome! 😊
 
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
 
 
